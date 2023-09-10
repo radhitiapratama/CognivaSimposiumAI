@@ -1,0 +1,200 @@
+[
+  {
+    "lokasi": "Jakarta",
+    "tanggal": "2023-09-06",
+    "waktu": "08:00",
+    "suhu": "30°C",
+    "kelembaban": "65%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Bali",
+    "tanggal": "2023-09-06",
+    "waktu": "09:30",
+    "suhu": "32°C",
+    "kelembaban": "70%",
+    "cuaca": "Cerah berawan",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  },
+  {
+    "lokasi": "Surabaya",
+    "tanggal": "2023-09-06",
+    "waktu": "11:45",
+    "suhu": "28°C",
+    "kelembaban": "55%",
+    "cuaca": "Hujan ringan",
+    "keterangan": "Hujan ringan dengan awan mendung."
+  },
+  {
+    "lokasi": "Bandung",
+    "tanggal": "2023-09-06",
+    "waktu": "13:15",
+    "suhu": "26°C",
+    "kelembaban": "60%",
+    "cuaca": "Berawan",
+    "keterangan": "Langit berawan dengan sedikit sinar matahari."
+  },
+  {
+    "lokasi": "Yogyakarta",
+    "tanggal": "2023-09-06",
+    "waktu": "15:20",
+    "suhu": "31°C",
+    "kelembaban": "68%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Semarang",
+    "tanggal": "2023-09-06",
+    "waktu": "17:00",
+    "suhu": "29°C",
+    "kelembaban": "62%",
+    "cuaca": "Hujan deras",
+    "keterangan": "Hujan deras dengan petir dan kilat."
+  },
+  {
+    "lokasi": "Medan",
+    "tanggal": "2023-09-06",
+    "waktu": "19:30",
+    "suhu": "27°C",
+    "kelembaban": "75%",
+    "cuaca": "Cerah berawan",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  },
+  {
+    "lokasi": "Makassar",
+    "tanggal": "2023-09-06",
+    "waktu": "21:10",
+    "suhu": "28°C",
+    "kelembaban": "64%",
+    "cuaca": "Hujan ringan",
+    "keterangan": "Hujan ringan dengan awan mendung."
+  },
+  {
+    "lokasi": "Palembang",
+    "tanggal": "2023-09-06",
+    "waktu": "23:45",
+    "suhu": "30°C",
+    "kelembaban": "70%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Manado",
+    "tanggal": "2023-09-06",
+    "waktu": "02:00",
+    "suhu": "26°C",
+    "kelembaban": "58%",
+    "cuaca": "Berawan",
+    "keterangan": "Langit berawan dengan sedikit sinar matahari."
+  },
+  {
+    "lokasi": "Denpasar",
+    "tanggal": "2023-09-07",
+    "waktu": "08:30",
+    "suhu": "31°C",
+    "kelembaban": "72%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Pontianak",
+    "tanggal": "2023-09-07",
+    "waktu": "10:15",
+    "suhu": "29°C",
+    "kelembaban": "63%",
+    "cuaca": "Hujan deras",
+    "keterangan": "Hujan deras dengan petir dan kilat."
+  },
+  {
+    "lokasi": "Padang",
+    "tanggal": "2023-09-07",
+    "waktu": "12:40",
+    "suhu": "27°C",
+    "kelembaban": "68%",
+    "cuaca": "Cerah berawan",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  },
+  {
+    "lokasi": "Balikpapan",
+    "tanggal": "2023-09-07",
+    "waktu": "14:50",
+    "suhu": "30°C",
+    "kelembaban": "66%",
+    "cuaca": "Hujan ringan",
+    "keterangan": "Hujan ringan dengan awan mendung."
+  },
+  {
+    "lokasi": "Jember",
+    "tanggal": "2023-09-07",
+    "waktu": "08:54",
+    "suhu": "26°C",
+    "kelembaban": "40%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  },
+  {
+    "lokasi": "Samarinda",
+    "tanggal": "2023-09-07",
+    "waktu": "17:10",
+    "suhu": "28°C",
+    "kelembaban": "61%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Lombok",
+    "tanggal": "2023-09-07",
+    "waktu": "19:20",
+    "suhu": "32°C",
+    "kelembaban": "74%",
+    "cuaca": "Cerah berawan",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  },
+  {
+    "lokasi": "Bandar Lampung",
+    "tanggal": "2023-09-07",
+    "waktu": "21:55",
+    "suhu": "30°C",
+    "kelembaban": "69%",
+    "cuaca": "Hujan ringan",
+    "keterangan": "Hujan ringan dengan awan mendung."
+  },
+  {
+    "lokasi": "Ambon",
+    "tanggal": "2023-09-07",
+    "waktu": "00:15",
+    "suhu": "27°C",
+    "kelembaban": "60%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Jember",
+    "tanggal": "2023-09-07",
+    "waktu": "08:45",
+    "suhu": "29°C",
+    "kelembaban": "63%",
+    "cuaca": "Berawan",
+    "keterangan": "Langit berawan dengan sedikit hujan."
+  },
+  {
+    "lokasi": "Bondowoso",
+    "tanggal": "2023-09-07",
+    "waktu": "10:30",
+    "suhu": "27°C",
+    "kelembaban": "58%",
+    "cuaca": "Cerah",
+    "keterangan": "Cuaca cerah tanpa hujan."
+  },
+  {
+    "lokasi": "Medan",
+    "tanggal": "2023-09-07",
+    "waktu": "12:15",
+    "suhu": "31°C",
+    "kelembaban": "67%",
+    "cuaca": "Cerah berawan",
+    "keterangan": "Cuaca cerah dengan awan tipis."
+  }
+]

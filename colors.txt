@@ -1,0 +1,6 @@
+Green	 : #42E19B
+Snow	 : #EFF2FD
+Blue	 : #12232D
+DarkBlue : #0E1B22;
+White	 : #FFF;
+Gray	 : #F7F5F3;
