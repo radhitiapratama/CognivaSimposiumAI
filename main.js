@@ -114,7 +114,7 @@ window.addEventListener("scroll", function () {
   }
 });
 
-fetch("http://127.0.0.1:5500/data_cuaca.json")
+fetch("https://radhitiapratama.github.io/CognivaSimposiumAI/data_cuaca.json")
   .then((response) => response.json())
   .then((response) => {
     let html = ``;
