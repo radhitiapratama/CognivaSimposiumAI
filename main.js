@@ -141,4 +141,5 @@ fetch("https://radhitiapratama.github.io/CognivaSimposiumAI/data_cuaca.json")
 
     const cardCuacaWrapper = document.querySelector(".cuaca-wrapper");
     cardCuacaWrapper.innerHTML = html;
+    
   });
